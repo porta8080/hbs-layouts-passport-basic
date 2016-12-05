@@ -1,0 +1,13 @@
+{
+  "apps" :
+  [
+    {
+      "name" : "basic",
+      "script" : "index.js",
+      "watch": true,
+      "env": {
+        "NODE_ENV": "prod"
+      }
+    }
+  ]
+}

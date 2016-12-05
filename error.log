@@ -1,0 +1,24 @@
+{"name":"basic","hostname":"victorferreira","pid":5073,"level":50,"msg":"Not found","time":"2016-12-05T02:52:30.097Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":5073,"level":50,"msg":"Not found","time":"2016-12-05T02:52:30.137Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":8044,"level":50,"msg":"Not found","time":"2016-12-05T03:14:21.975Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":8103,"level":50,"msg":"Not found","time":"2016-12-05T03:14:35.784Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":8103,"level":50,"msg":"Not found","time":"2016-12-05T03:14:36.601Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":8103,"level":50,"msg":"Not found","time":"2016-12-05T03:14:36.772Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":8174,"level":50,"msg":"Not found","time":"2016-12-05T03:15:11.537Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":8174,"level":50,"msg":"Not found","time":"2016-12-05T03:15:14.669Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":8940,"level":50,"msg":"Not found","time":"2016-12-05T03:31:56.423Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":8940,"level":50,"msg":"Not found","time":"2016-12-05T03:31:57.019Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":8940,"level":50,"msg":"Not found","time":"2016-12-05T03:31:57.168Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9305,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:39:57.528Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9305,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:39:58.335Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9305,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:39:58.507Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9305,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:39:58.684Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9305,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:40:08.228Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9305,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:40:08.690Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9305,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:40:08.834Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9305,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:40:08.999Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9305,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:40:09.186Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9626,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:41:48.565Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9626,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:41:49.250Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9626,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:41:49.404Z","v":0}
+{"name":"basic","hostname":"victorferreira","pid":9626,"level":50,"msg":"/home/victor/projetos/basic/views/index.html: Missing partial: 'layout'","time":"2016-12-05T03:41:49.580Z","v":0}
